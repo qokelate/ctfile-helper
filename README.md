@@ -30,4 +30,6 @@ https://164-ctc-bb.tv002.com/down/9263391935c04989d62ba96c3ef6cb10/Y0008.rar?cts
 ### `-p` 登录用户密码
 ### `<url or filepath>` 网盘链接或链接列表文件路径
 
-## 仅学习用途,侵删
+----------
+
+## <font color='red'>仅做学习演示用途,侵删</font>
